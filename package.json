@@ -1,0 +1,14 @@
+{
+  "name": "initvue",
+  "version": "1.0.0",
+  "description": "init a .vue file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "feikerwu@gmail.com",
+  "license": "ISC"
+}
