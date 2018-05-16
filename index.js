@@ -12,6 +12,3 @@ const src = fs.createReadStream('./tempalte.vue')
 const dist = fs.createWriteStream(vueFile)
 
 src.pipe(dist)
-
-
-
